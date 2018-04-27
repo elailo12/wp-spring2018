@@ -1,5 +1,4 @@
 # wp18  
-Work for Spring Web Programming  
 
 ## 01 Intro website
 * https://elailo12.github.io/wp-spring2018/Class1/01_Intro/ElaineLopez_Intro.html
