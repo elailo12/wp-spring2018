@@ -1,7 +1,6 @@
 # wp18  
 Work for Spring Web Programming  
 
-Class 1
 01 Intro website
 https://elailo12.github.io/wp-spring2018/Class1/01\_Intro/ElaineLopez\_Intro.html\</br\>
 
@@ -9,7 +8,7 @@ https://elailo12.github.io/wp-spring2018/Class1/01\_Intro/ElaineLopez\_Intro.htm
 https://elailo12.github.io/wp-spring2018/Class1/02\_flag1/ScandinavianFlag\_v01.html\</br\>
 
 03 Swedish Flag 2
-https://elailo12.github.io/wp-spring2018/Class1/ 03\_flag2/ScandinavianFlag.html \</br\>\_
+https://elailo12.github.io/wp-spring2018/Class1/03\_flag2/ScandinavianFlag.html \</br\>\_
 
 04 Digital Bits  
 https://elailo12.github.io/wp-spring2018/Class1/04\_digitalBits/01cassette.html \</br\>\_
