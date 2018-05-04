@@ -1,0 +1,96 @@
+<html>
+  <head>
+    <title>United States of America Flag</title>
+    <style>
+        body * {  background-color: white; }
+        div { width:100%; height:100%; border: 0px solid black}
+
+        section { display: grid;
+          grid-template-columns: repeat(22, 55px);
+          grid-template-rows: repeat(13, 40px);
+          grid-gap: 0px;
+          align-items: center;
+
+        }
+
+        .nested{
+          display:grid;
+          grid-template-columns:repeat(6, 1fr);
+          grid-auto-rows: 70px;
+          grid-gap: 1em;
+        }
+
+        .blue{
+          grid-column:1/11;
+          grid-row: 1/8;
+          background-color: #000066;
+
+
+        }
+
+        .red{
+          grid-column: 11/23;
+          background-color: #cc0000;
+
+        }
+
+        .redlong{
+          grid-column: 1/23;
+          background-color: #cc0000;
+
+        }
+
+        .nested > div{
+          border:#333 1px solid;
+          padding:1em;
+        }
+
+        }
+
+
+
+
+
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <section>
+
+      <div class="blue">
+        <div class="nested">
+          <div><img src=star.svg></div>
+          <div><img src=star.svg></div>
+          <div><img src=star.svg></div>
+          <div><img src=star.svg></div>
+          <div><img src=star.svg></div>
+        </div>
+
+      </div>
+      <div class="red"></div>
+      <div></div>
+      <div class="blue"></div>
+      <div class="red"></div>
+      <div></div>
+      <div class="red"></div>
+      <div></div>
+      <div class="red"></div>
+      <div></div>
+      <div class="redlong"></div>
+      <div></div>
+      <div class="redlong"></div>
+      <div></div>
+      <div class="redlong"></div>
+      <div class="stars"> <img src="star.png"></div>
+
+
+
+
+    </section>
+
+  </body>
+
+</html>
