@@ -22,7 +22,7 @@
 * https://elailo12.github.io/wp-spring2018/Class1/04\_digitalBits/05camera.html
 
 ## 05 Naoero Flag
-* https://elailo12.github.io/wp-spring2018/Class1/05\_ naoeroflag/naoeroflag.html
+* https://elailo12.github.io/wp-spring2018/Class1/05\_naoeroflag/naoeroflag.html
 
 ## 06 US Flag
 * https://elailo12.github.io/wp-spring2018/Class1/06\_usflag/usflag.html
